@@ -13,6 +13,9 @@ Answer:Integrated Developmenmt Environment
 What are some of the most popular Java IDEs available in the market?
 Answer:
 
+What is a classes in Java?
+Answer: A class in the context of Java is a template used to create objects and to define object data types and methods.
+
 Explain the entire java life cycle.
 Answer:
 
