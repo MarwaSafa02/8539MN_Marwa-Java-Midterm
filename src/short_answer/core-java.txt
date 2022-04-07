@@ -101,7 +101,7 @@ What is the difference between JDK and JVM?
 Answer:
 
 What is the difference between JVM and JRE?
-Answer:
+Answer:Java Virtual Machine and Java Run Time Environmment
 
 Explain the difference between compile-time and run-time?
 Answer:
