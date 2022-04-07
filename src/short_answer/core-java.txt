@@ -8,7 +8,7 @@ Answer: Java Development Kit (JDK) is composed of everything that a computer nee
         -The compiler: It compiles the source code (.java) to bytecode (.class).
 
 What is an IDE?
-Answer:
+Answer:Integrated Developmenmt Environment
 
 What are some of the most popular Java IDEs available in the market?
 Answer:
@@ -71,7 +71,7 @@ Explain the difference between final, finally and finalize?
 Answer:
 
 What is a constructor?
-Answer:
+Answer:To initalize the object of the class.
 
 Can we have multiple constructors in a class?
 Answer:
