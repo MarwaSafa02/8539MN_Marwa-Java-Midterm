@@ -10,8 +10,7 @@ public class DetermineLargestWord {
      * Your solution should return a map containing the length of the word as the key & the word itself as the value
      * "10: biological"
      */
-
-    public static void main(String[] args) {
+     public static void main(String[] args) {
         String s = "Human brain is a biological learning machine";
         Map<Integer, String> wordNLength = findTheLargestWord(s);
 
@@ -23,6 +22,10 @@ public class DetermineLargestWord {
         String st = "";
 
         // Implement here
+        //split the string to an array
+        //declare  a max variable as 0
+        //loop through the array, in each step
+        //-- find the length of the
 
         return map;
     }
